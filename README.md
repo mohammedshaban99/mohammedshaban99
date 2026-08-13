@@ -97,8 +97,6 @@ I work mainly with **ASP.NET Core**, **Angular**, **Blazor**, **SQL Server**, an
 
 <img src="https://skillicons.dev/icons?i=docker,azure" />
 
-**Familiar with:** Docker, CI/CD, and Microsoft Azure fundamentals
-
 </div>
 
 ---

@@ -3,15 +3,18 @@
 <div align="center">
 
 <!-- Animated Header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:7C3AED&text=Mohamed%20Shaban&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20Angular%20%7C%20Blazor&descAlignY=58&descSize=18" />
 
 <!-- Typing Animation -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Clean%2C+Scalable+%26+Secure+Web+Applications;ASP.NET+Core+%7C+Angular+%7C+Blazor+%7C+SQL+Server;Clean+Architecture+%7C+CQRS+%7C+MediatR+%7C+EF+Core;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
 
 <br />
 <br />
 
 <!-- Social Links -->
+
 <a href="mailto:mohammedshaban1458@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -42,12 +45,12 @@ I am a motivated **Full Stack .NET Developer** with strong experience in buildin
 
 I work mainly with **ASP.NET Core**, **Angular**, **Blazor**, **SQL Server**, and **Entity Framework Core**, and I enjoy applying software engineering best practices such as **Clean Architecture**, **CQRS**, **MediatR**, **SOLID Principles**, and **Design Patterns**.
 
-- 🔭 Currently working as a **.NET Developer at Dexef**
-- 🏗️ Building enterprise-level web applications using **ASP.NET Core, Blazor Server, and DevExpress**
-- ⚙️ Experienced with **RESTful APIs, EF Core, LINQ, JWT Auth, ASP.NET Identity**
-- 🧠 Interested in writing clean, maintainable, and scalable code
-- 🚀 Always learning and improving as a software engineer
-- 📍 Based in **Cairo, Egypt**
+* 🔭 Currently working as a **.NET Developer at Dexef**
+* 🏗️ Building enterprise-level web applications using **ASP.NET Core, Blazor Server, and DevExpress**
+* ⚙️ Experienced with **RESTful APIs, EF Core, LINQ, JWT Auth, ASP.NET Identity**
+* 🧠 Interested in writing clean, maintainable, and scalable code
+* 🚀 Always learning and improving as a software engineer
+* 📍 Based in **Cairo, Egypt**
 
 <br clear="right" />
 
@@ -58,22 +61,26 @@ I work mainly with **ASP.NET Core**, **Angular**, **Blazor**, **SQL Server**, an
 <div align="center">
 
 ### Backend
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MVC-68217A?style=for-the-badge&logo=.net&logoColor=white" />
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind" />
 <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 
 ### Database & ORM
+
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 ### Programming & Concepts
+
 <img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/SOLID-0F766E?style=for-the-badge&logo=codacy&logoColor=white" />
 <img src="https://img.shields.io/badge/Design%20Patterns-7C3AED?style=for-the-badge&logo=abstract&logoColor=white" />
@@ -81,9 +88,16 @@ I work mainly with **ASP.NET Core**, **Angular**, **Blazor**, **SQL Server**, an
 <img src="https://img.shields.io/badge/MediatR-DC2626?style=for-the-badge&logo=.net&logoColor=white" />
 
 ### Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/Unit%20Testing-16A34A?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,azure" />
+
+**Familiar with:** Docker, CI/CD, and Microsoft Azure fundamentals
 
 </div>
 
@@ -243,6 +257,10 @@ mindmap
       MediatR
       SOLID
       Design Patterns
+    DevOps & Cloud
+      Docker
+      CI/CD
+      Microsoft Azure
     Tools
       Git
       GitHub
@@ -257,11 +275,11 @@ mindmap
 
 ## 🎯 Current Goals
 
-- Build more advanced full-stack applications
-- Improve system design and architecture skills
-- Write better clean code and reusable components
-- Contribute to impactful real-world software projects
-- Keep growing as a professional software engineer
+* Build more advanced full-stack applications
+* Improve system design and architecture skills
+* Write better clean code and reusable components
+* Contribute to impactful real-world software projects
+* Keep growing as a professional software engineer
 
 ---
 
